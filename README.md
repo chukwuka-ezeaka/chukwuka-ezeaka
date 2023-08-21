@@ -2,9 +2,10 @@
 
 <p align="center">
   <samp>
-I'm Danny Koppenhagen. Frontend Architect, Web Developer, Consultant, Author and Open Source Enthusiast from Berlin (Germany).
+I'm Chukwuka Ezeaka. Frontend Architect, Web Developer, Consultant, Author and Open Source Enthusiast from Berlin (Germany).
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=d-koppenhagen&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=chukwuka-ezeaka
+&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 </p>
