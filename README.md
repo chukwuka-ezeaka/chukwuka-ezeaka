@@ -1,14 +1,12 @@
 
 # Hi I'm Burby 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-chukwuka-ezeaka?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwuka-ezeaka/)](https://www.linkedin.com/in/chukwuka-ezeaka/)
+[![Twitter Badge](https://img.shields.io/badge/-@burby_i_am-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/burby_i_am)](https://twitter.com/burby_i_am)
+[![Instagram Badge](https://img.shields.io/badge/-@burby_i_am-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/burby_i_am/)](https://instagram.com/_jessicaalim)
+[![Gmail Badge](https://img.shields.io/badge/-chukwukaezeaka813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chukwuka.ezeaka@gmail.com)](mailto:chukwuka.ezeaka@gmail.com)
 
-Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+A graduate of Computer Science and an ambitious problem solver with a passion for online businesses, and who would like to join a team of like-minded developers. Thorough and precise when delivering on projects, with a keen interest in technology, mobile applications and user experience. As someone who takes responsibility for my own personal development, my focus includes evaluating and upgrading my skills while learning from others, so as to stay at the cutting edge of software engineering. [connect](https://www.linkedin.com/in/chukwuka-ezeaka/)!
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=chukwuka-ezeaka&theme=dark&show_icons=true" width="350" align="right" /></a>
