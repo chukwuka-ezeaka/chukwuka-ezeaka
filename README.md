@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-chukwuka-ezeaka?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwuka-ezeaka/)](https://www.linkedin.com/in/chukwuka-ezeaka/)
 [![Twitter Badge](https://img.shields.io/badge/-@burby_i_am-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/burby_i_am)](https://twitter.com/burby_i_am)
 [![Instagram Badge](https://img.shields.io/badge/-@burby_i_am-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/burby_i_am/)](https://instagram.com/_jessicaalim)
-[![Gmail Badge](https://img.shields.io/badge/-chukwukaezeaka813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chukwuka.ezeaka@gmail.com)](mailto:chukwuka.ezeaka@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-chukwukaezeaka-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chukwuka.ezeaka@gmail.com)](mailto:chukwuka.ezeaka@gmail.com)
 
 A graduate of Computer Science and an ambitious problem solver with a passion for online businesses, and who would like to join a team of like-minded developers. Thorough and precise when delivering on projects, with a keen interest in technology, mobile applications and user experience. As someone who takes responsibility for my own personal development, my focus includes evaluating and upgrading my skills while learning from others, so as to stay at the cutting edge of software engineering. [connect](https://www.linkedin.com/in/chukwuka-ezeaka/)!
 
